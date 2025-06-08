@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="b785515847066a10672b9dbe316d43da" sys_domain="global" table="x_1756219_practi_0_practice_3_table" version="3" view="">
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1756219_practi_0_practice_3_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-06 07:47:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b785515847066a10672b9dbe316d43da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1756219_practi_0_practice_3_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Practice 3" source="x_1756219_practi_0">e798128147392290672b9dbe316d4318</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Practice 3">e798128147392290672b9dbe316d4318</sys_scope>
+            <sys_update_name>sys_ui_section_b785515847066a10672b9dbe316d43da</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-06 07:47:52</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Practice 3">e798128147392290672b9dbe316d4318</application>
+        <file_path/>
+        <instance_id>3ed1822efb15ae101feef633beefdc27</instance_id>
+        <instance_name>dev347123</instance_name>
+        <name>sys_ui_section_b785515847066a10672b9dbe316d43da</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="b785515847066a10672b9dbe316d43da" sys_domain="global" table="x_1756219_practi_0_practice_3_table" version="3" view=""><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1756219_practi_0_practice_3_table</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-06 07:47:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b785515847066a10672b9dbe316d43da</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1756219_practi_0_practice_3_table</sys_name><sys_overrides/><sys_package display_value="Practice 3" source="x_1756219_practi_0">e798128147392290672b9dbe316d4318</sys_package><sys_policy/><sys_scope display_value="Practice 3">e798128147392290672b9dbe316d4318</sys_scope><sys_update_name>sys_ui_section_b785515847066a10672b9dbe316d43da</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-06 07:47:52</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1867424200</payload_hash>
+        <record_name>Practice 3 Table</record_name>
+        <reverted_from/>
+        <source>73e9dec147392290672b9dbe316d43d2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-06 07:47:52</sys_created_on>
+        <sys_id>bf85515847066a10672b9dbe316d43dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1974435e5e60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-06 07:47:52</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>7f855158a4066a1028954d6d309c5edd</update_guid>
+        <update_guid_history>7f855158a4066a1028954d6d309c5edd:1867424200</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-07 09:00:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>a54ef0788ba14634b5f8c75192a17b10</sys_id>
+        <sys_metadata>b785515847066a10672b9dbe316d43da</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1756219_practi_0_practice_3_table</sys_name>
+        <sys_package display_value="Practice 3" source="x_1756219_practi_0">e798128147392290672b9dbe316d4318</sys_package>
+        <sys_parent display_value="">13859d5847066a10672b9dbe316d436e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Practice 3">e798128147392290672b9dbe316d4318</sys_scope>
+        <sys_scope_delete display_value="">043ff5483ffc47049cc8f9326bb05c90</sys_scope_delete>
+        <sys_update_name>sys_ui_section_b785515847066a10672b9dbe316d43da</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_b785515847066a10672b9dbe316d43da">bf85515847066a10672b9dbe316d43dd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-07 09:00:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

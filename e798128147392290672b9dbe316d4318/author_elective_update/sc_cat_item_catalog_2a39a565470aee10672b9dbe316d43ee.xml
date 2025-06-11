@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Practice 3 Part 3">9928ede1470aee10672b9dbe316d43b5</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-10 06:26:12</sys_created_on>
+        <sys_id>2a39a565470aee10672b9dbe316d43ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Practice 3 Part 3</sys_name>
+        <sys_package display_value="Practice 3" source="x_1756219_practi_0">e798128147392290672b9dbe316d4318</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Practice 3">e798128147392290672b9dbe316d4318</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_2a39a565470aee10672b9dbe316d43ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-10 06:26:12</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Practice 3">e798128147392290672b9dbe316d4318</application>
+        <file_path/>
+        <instance_id>3ed1822efb15ae101feef633beefdc27</instance_id>
+        <instance_name>dev347123</instance_name>
+        <name>sc_cat_item_catalog_2a39a565470aee10672b9dbe316d43ee</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Practice 3 Part 3">9928ede1470aee10672b9dbe316d43b5</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-10 06:26:12</sys_created_on><sys_id>2a39a565470aee10672b9dbe316d43ee</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Practice 3 Part 3</sys_name><sys_package display_value="Practice 3" source="x_1756219_practi_0">e798128147392290672b9dbe316d4318</sys_package><sys_policy/><sys_scope display_value="Practice 3">e798128147392290672b9dbe316d4318</sys_scope><sys_update_name>sc_cat_item_catalog_2a39a565470aee10672b9dbe316d43ee</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-10 06:26:12</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1420824340</payload_hash>
+        <record_name>Service Catalog.Practice 3 Part 3</record_name>
+        <reverted_from/>
+        <source>73e9dec147392290672b9dbe316d43d2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-10 06:26:12</sys_created_on>
+        <sys_id>e239a565470aee10672b9dbe316d43f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197588492ca0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-10 06:26:12</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>2639a5651d0aee106fdccf7a63c94bf1</update_guid>
+        <update_guid_history>2639a5651d0aee106fdccf7a63c94bf1:1420824340</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Practice 3 Part 3">63a921a5470aee10672b9dbe316d43de</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-10 06:28:10</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>1d9ad4a63a3041079b033895932986d9</sys_id>
+        <sys_metadata>2a39a565470aee10672b9dbe316d43ee</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Practice 3 Part 3</sys_name>
+        <sys_package display_value="Practice 3" source="x_1756219_practi_0">e798128147392290672b9dbe316d4318</sys_package>
+        <sys_parent display_value="Practice 3">9928ede1470aee10672b9dbe316d43b5</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Practice 3">e798128147392290672b9dbe316d4318</sys_scope>
+        <sys_scope_delete display_value="">043ff5483ffc47049cc8f9326bb05c90</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_2a39a565470aee10672b9dbe316d43ee</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_2a39a565470aee10672b9dbe316d43ee">e239a565470aee10672b9dbe316d43f2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-10 06:28:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

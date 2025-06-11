@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Practice 3 Part 3">9928ede1470aee10672b9dbe316d43b5</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-10 06:28:10</sys_created_on>
+        <sys_id>2fa921a5470aee10672b9dbe316d43fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Practice 3 Part 3</sys_name>
+        <sys_package display_value="Practice 3" source="x_1756219_practi_0">e798128147392290672b9dbe316d4318</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Practice 3">e798128147392290672b9dbe316d4318</sys_scope>
+        <sys_update_name>sc_cat_item_category_2fa921a5470aee10672b9dbe316d43fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-10 06:28:10</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Practice 3">e798128147392290672b9dbe316d4318</application>
+        <file_path/>
+        <instance_id>3ed1822efb15ae101feef633beefdc27</instance_id>
+        <instance_name>dev347123</instance_name>
+        <name>sc_cat_item_category_2fa921a5470aee10672b9dbe316d43fc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Practice 3 Part 3">9928ede1470aee10672b9dbe316d43b5</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-10 06:28:10</sys_created_on><sys_id>2fa921a5470aee10672b9dbe316d43fc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Practice 3 Part 3</sys_name><sys_package display_value="Practice 3" source="x_1756219_practi_0">e798128147392290672b9dbe316d4318</sys_package><sys_policy/><sys_scope display_value="Practice 3">e798128147392290672b9dbe316d4318</sys_scope><sys_update_name>sc_cat_item_category_2fa921a5470aee10672b9dbe316d43fc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-10 06:28:10</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1216871134</payload_hash>
+        <record_name>Can We Help You?.Practice 3 Part 3</record_name>
+        <reverted_from/>
+        <source>73e9dec147392290672b9dbe316d43d2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-10 06:28:11</sys_created_on>
+        <sys_id>27a961a5470aee10672b9dbe316d4301</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197588660c10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-10 06:28:11</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>67a961a5c70aee10fe73a7b29a5c6200</update_guid>
+        <update_guid_history>67a961a5c70aee10fe73a7b29a5c6200:-1216871134</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Practice 3 Part 3">ecf9a5a5470aee10672b9dbe316d43c9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-10 06:29:20</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>0202802095454ca087bca8d2c17d4724</sys_id>
+        <sys_metadata>2fa921a5470aee10672b9dbe316d43fc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Practice 3 Part 3</sys_name>
+        <sys_package display_value="Practice 3" source="x_1756219_practi_0">e798128147392290672b9dbe316d4318</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Practice 3">e798128147392290672b9dbe316d4318</sys_scope>
+        <sys_scope_delete display_value="">043ff5483ffc47049cc8f9326bb05c90</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_2fa921a5470aee10672b9dbe316d43fc</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_2fa921a5470aee10672b9dbe316d43fc">27a961a5470aee10672b9dbe316d4301</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-10 06:29:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

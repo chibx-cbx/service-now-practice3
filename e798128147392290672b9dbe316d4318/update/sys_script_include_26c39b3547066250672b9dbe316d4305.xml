@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1756219_practi_0.RetrieveExcel</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <mobile_callable>false</mobile_callable>
+        <name>RetrieveExcel</name>
+        <sandbox_callable>true</sandbox_callable>
+        <script><![CDATA[var RetrieveExcel = Class.create();
+RetrieveExcel.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+    parseExcel: function() {
+        var mrvs = [];
+        var attid = this.getParameter('sysparm_attachment');
+        var parser = new sn_impex.GlideExcelParser();
+        var attachment = new GlideSysAttachment();
+        var attachmentStream = attachment.getContentStream(attid);
+        parser.setSource(attachmentStream);
+        var list_sheet_name = parser.getSheetNames();
+        for (var i = 0; i < list_sheet_name.length; i++) {
+            parser.setSheetName(list_sheet_name[i]);
+            if (parser.parse()) {
+                var headers = parser.getColumnHeaders();
+                var header1 = headers[0];
+                var header2 = headers[1];
+                while (parser.next()) {
+                    var row = parser.getRow();
+                    mrvs.push({
+                        'question_item_1': row[header1],
+                        'question_item_2': row[header2]
+                    });
+                }
+            }
+        }
+//        gs.addInfoMessage("return");
+        return JSON.stringify(mrvs);
+    },
+type: 'RetrieveExcel'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-11 09:00:11</sys_created_on>
+        <sys_id>26c39b3547066250672b9dbe316d4305</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>RetrieveExcel</sys_name>
+        <sys_package display_value="Practice 3" source="x_1756219_practi_0">e798128147392290672b9dbe316d4318</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Practice 3">e798128147392290672b9dbe316d4318</sys_scope>
+        <sys_update_name>sys_script_include_26c39b3547066250672b9dbe316d4305</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-11 09:18:38</sys_updated_on>
+    </sys_script_include>
+</record_update>

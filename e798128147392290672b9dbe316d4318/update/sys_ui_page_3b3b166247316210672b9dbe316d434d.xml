@@ -14,7 +14,7 @@ PDFGenerator.prototype = Object.extendsObject(AbstractAjaxProcessor, {
 ]]></client_script>
         <description/>
         <direct>false</direct>
-        <endpoint>x_1756219_practi_0_generatePDF.do</endpoint>
+        <endpoint>x_1756219_practi_0_generatePDF_Delete_Should.do</endpoint>
         <html><![CDATA[<!-- UI Page -->
 <button onclick="generatePDF()">Download PDF</button>
 <script>
@@ -30,19 +30,19 @@ function generatePDF() {
   });
 }
 </script>]]></html>
-        <name>generatePDF</name>
+        <name>generatePDF_Delete_Should</name>
         <processing_script/>
         <sys_class_name>sys_ui_page</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-06-01 02:25:33</sys_created_on>
         <sys_id>3b3b166247316210672b9dbe316d434d</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>generatePDF</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>generatePDF_Delete_Should</sys_name>
         <sys_package display_value="Practice 3" source="x_1756219_practi_0">e798128147392290672b9dbe316d4318</sys_package>
         <sys_policy/>
         <sys_scope display_value="Practice 3">e798128147392290672b9dbe316d4318</sys_scope>
         <sys_update_name>sys_ui_page_3b3b166247316210672b9dbe316d434d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-06-01 02:28:07</sys_updated_on>
+        <sys_updated_on>2025-06-12 05:43:02</sys_updated_on>
     </sys_ui_page>
 </record_update>
